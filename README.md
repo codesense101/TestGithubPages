@@ -7,10 +7,15 @@ Repo to test Github pages feature
 
 
 ![MicrosoftTeams-image (2)](https://github.com/codesense101/TestGithubPages/assets/130458352/2ac4c41e-fbdc-497d-bb2d-9d21ab9054f8)
+![DALL·E 2023-11-05 11 44 33 - Create a professional PowerPoint title slide image that showcases the concept of 'Tools AGI_ AI Learning to Work with Tools'  Include a futuristic AI ](https://github.com/codesense101/TestGithubPages/assets/130458352/5987fd3a-8976-48c5-972f-fbcf4e67f489)
 
 ---
 ## Adding Video
 
+
+
+
+https://github.com/codesense101/TestGithubPages/assets/130458352/9d0b2261-1039-4d35-bb23-486e18bb1650
 
 
 https://github.com/codesense101/TestGithubPages/assets/130458352/5f8e1c3e-ba56-4593-9a3e-dfa8881020a6
