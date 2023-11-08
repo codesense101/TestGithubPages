@@ -26,7 +26,7 @@ The file is linked ![here](file.md)
 ---
 ## Adding Image
 
-![If you are seeing it. Means it disn't work.](docs/ai-agent.png)
+![If you are seeing it. Means it disn't work.](ai-agent.png)
 
 ---
 ## Adding Video
