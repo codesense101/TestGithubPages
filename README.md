@@ -5,6 +5,7 @@ Repo to test Github pages feature
 ---
 ## Adding Image
 
+![](https://github.com/codesense101/TestGithubPages/docs/ai-agent.png)
 
 ![MicrosoftTeams-image (2)](https://github.com/codesense101/TestGithubPages/assets/130458352/2ac4c41e-fbdc-497d-bb2d-9d21ab9054f8)
 ![DALL·E 2023-11-05 11 44 33 - Create a professional PowerPoint title slide image that showcases the concept of 'Tools AGI_ AI Learning to Work with Tools'  Include a futuristic AI ](https://github.com/codesense101/TestGithubPages/assets/130458352/5987fd3a-8976-48c5-972f-fbcf4e67f489)
