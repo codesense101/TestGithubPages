@@ -21,12 +21,12 @@ $ npm start
 ---
 ## Check Linked file in Github Pages
 
-The file is linked [here](file.md)
+The file is linked ![here](file.md)
 
 ---
 ## Adding Image
 
-[If you are seeing it. Means it disn't work.](docs/ai-agent.png)
+![If you are seeing it. Means it disn't work.](docs/ai-agent.png)
 
 ---
 ## Adding Video
