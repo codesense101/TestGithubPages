@@ -13,11 +13,6 @@ Repo to test Github pages feature
 ## Adding Video
 
 
-
-
-https://github.com/codesense101/TestGithubPages/assets/130458352/9d0b2261-1039-4d35-bb23-486e18bb1650
-
-
 https://github.com/codesense101/TestGithubPages/assets/130458352/5f8e1c3e-ba56-4593-9a3e-dfa8881020a6
 
 
