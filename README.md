@@ -5,7 +5,8 @@ Repo to test Github pages feature
 ---
 ## Adding Image
 
-![If you are seeing it. Means it disn't work.](docs/ai-agent.png)
+
+![MicrosoftTeams-image (2)](https://github.com/codesense101/TestGithubPages/assets/130458352/2ac4c41e-fbdc-497d-bb2d-9d21ab9054f8)
 
 ---
 ## Adding Video
@@ -13,5 +14,9 @@ Repo to test Github pages feature
 ![If you are seeing it. Means it disn't work](docs/HrWyxB_sYsTQVg6R.mp4)
 
 ![Works?](https://github.com/codesense101/TestGithubPages/assets/130458352/4bb994a9-805c-41be-9032-7815e810f527)
+
+
+
+![](https://github.com/codesense101/TestGithubPages/assets/130458352/eb928935-f0c2-4007-9789-9e3535ff4cb2)
 
 
