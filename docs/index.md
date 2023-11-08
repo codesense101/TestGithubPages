@@ -16,3 +16,7 @@ Here's how you can use this project:
 
 ```bash
 $ npm start
+
+## Check Linked file in Github Pages
+
+The file is linked [here](file.md)
